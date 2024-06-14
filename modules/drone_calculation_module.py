@@ -1,5 +1,6 @@
 import numpy as np
 
+
 def calculate_fb(area, fbmin, fbmax):
 
     fbmin, fbmax = 60000, 70000

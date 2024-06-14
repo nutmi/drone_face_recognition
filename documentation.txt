@@ -1,0 +1,14 @@
+Idejo za ta projekt sem dobil iz videoposnetka (https://www.youtube.com/watch?v=LmEcyQnfpDA&t=7671s).
+Naloga tega programa je, da dronu pomaga slediti mojemu obrazu.
+Narejen je v Pythonu.
+
+Koda je razdeljena na tri datoteke:
+
+- **drone_calculation_module**:
+     Njegova naloga je, da računa hitrost, hitrost obračanja (yaw speed) in višino.
+
+- **frame_module**:
+    Njegova naloga je, da išče obraz, koordinate obraza, površino obraza in sredino obraza.
+
+- **final_version**:
+    Naloga te datoteke je, da vse skupaj poveže v while zanki.

@@ -3,7 +3,6 @@ import numpy as np
 from djitellopy import Tello
 from modules.drone_calculation_module import *
 from modules.frame_module import *
-from modules.frame_calculation_module import *
 
 def main():
 
